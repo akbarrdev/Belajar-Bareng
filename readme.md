@@ -89,11 +89,14 @@ npm run contoh-1
 - Implementasi async/await
 - Penanganan error
 
-### 3. Pengenalan AI (Menggunakan Grok AI dari TwitterAI)
+### 3. Pengenalan AI (Menggunakan model Grok AI dari x.ai (Twitter))
 
+- Pengenalan dasar AI
+- Memahami konsep AI
 - Dasar-dasar AI dalam NodeJS
 - Membuat model AI sederhana
 - Implementasi praktis AI
+- Simpan data percakapan AI
 
 ## Pemateri
 
