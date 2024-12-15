@@ -1,0 +1,14 @@
+{
+  "tanggal": "12 Des 2024",
+  "jam": "13:36:29 WIB",
+  "datetime": "2024-12-12T06:36:29+00:00",
+  "coordinates": "-0.36,99.51",
+  "lintang": "0.36 LS",
+  "bujur": "99.51 BT",
+  "magnitude": "4.9",
+  "kedalaman": "10 km",
+  "wilayah": "Pusat gempa berada di laut 57 km barat daya Lubukbasung-Agam",
+  "potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+  "dirasakan": "III-IV Padang, III-IV Agam, III-IV Padang Pariaman, III-IV Pariaman, II - III Padang Panjang, II - III Bukittinggi",
+  "shakemap": "https://data.bmkg.go.id/DataMKG/TEWS/20241212133629.mmi.jpg"
+}

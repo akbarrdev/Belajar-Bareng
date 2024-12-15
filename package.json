@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contoh-1": "node \"Materi 12-12-2024/1. Print To Console/print.js\"",
+    "contoh-2": "node \"Materi 12-12-2024/2. Fetching/fetching.js\"",
+    "contoh-3": "node \"Materi 12-12-2024/3. Simple AI/AI.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
